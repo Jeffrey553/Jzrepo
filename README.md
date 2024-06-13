@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a cybersecurity intern transitioning into a full-fledged cybersecurity engineer role. He has a rich background in various technical and security-focused tasks, evolving from a Desktop Support Analyst to managing complex projects related to API integrations, security incident responses, and monitoring solutions. Jeffrey's expertise spans across multiple tools and platforms, including Datadog, CrowdStrike, AWS, Jamf, and more.
+I am a cybersecurity intern transitioning into a full-fledged cybersecurity engineer role. I have a rich background in various technical and security-focused tasks, evolving from a Desktop Support Analyst to managing complex projects related to API integrations, security incident responses, and monitoring solutions. My growing expertise spans across multiple tools and platforms, including Datadog, CrowdStrike, AWS, Jamf, and more.
 
 ### Key Projects and Responsibilities
 
@@ -61,4 +61,4 @@ I am a cybersecurity intern transitioning into a full-fledged cybersecurity engi
 - Ensures all work is thoroughly tested and verified before final implementation.
 - Values clever naming conventions for projects and prefers to be asked for confirmation before proceeding with tasks.
 
-Jeffrey's dedication to improving security operations and his proactive approach to handling complex technical challenges make him a valuable asset in the cybersecurity domain. As an intern transitioning into a cybersecurity engineer role, Jeffrey has demonstrated exceptional capability and growth potential in the field.
+My dedication to improving security operations and his proactive approach to handling complex technical challenges make him a valuable asset in the cybersecurity domain. 
